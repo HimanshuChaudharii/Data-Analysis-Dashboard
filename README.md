@@ -25,7 +25,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 ##Dashboard Interaction
 
-View Dashboard
+-<a  href="https://github.com/HimanshuChaudharii/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-15%20200836.png">View Dashboard</a>
 
 ##Process of the Project: Coffee Shop Sales Dashboard Requirement Gathering & Objective Definition Understand the business needs of a coffee shop chain.
 
@@ -37,7 +37,7 @@ Data Collection Gather raw data from Point-of-Sale (POS) systems across multiple
 
 Data includes transaction time, product details, quantity, price, store location, order size, and customer details (if available).
 
-Screenshot 2025-04-09 221240
+![Screenshot 2025-04-15 200836](https://github.com/user-attachments/assets/44b92f0a-0dcd-4da9-8bc6-ff53fbd5206d)
 
 ##Visual Components and Insights:
 
